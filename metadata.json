@@ -1,0 +1,8 @@
+{
+  "name": "RECETTE MOGEND",
+  "description": "A high-performance command generator for MOGEND deployments, featuring an AI-powered assistant to translate natural language into precise Ansible playbooks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
