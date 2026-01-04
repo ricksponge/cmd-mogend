@@ -10,9 +10,9 @@ export const PROJECTS: DeploymentProject[] = [
 ];
 
 export const ENVIRONMENTS = [
-  { value: 'qual', label: 'Qualif (Vert)', color: 'bg-emerald-600' },
-  { value: 'preprod', label: 'Preprod (Bleu)', color: 'bg-blue-600' },
-  { value: 'prod', label: 'Production (Rouge)', color: 'bg-rose-600' },
+  { value: 'qual', label: 'Qualif', color: 'bg-emerald-600' },
+  { value: 'preprod', label: 'Preprod', color: 'bg-blue-600' },
+  { value: 'prod', label: 'Production', color: 'bg-rose-600' },
 ];
 
 export const PHASES = [
